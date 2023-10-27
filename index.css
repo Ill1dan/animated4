@@ -224,6 +224,9 @@ html {
     .container{
         align-items: flex-start;
     }
+    .card{
+        min-height: 100vh;
+    }
 }
 @media(max-width: 372px) {
     html{
